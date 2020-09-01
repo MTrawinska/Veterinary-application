@@ -1,4 +1,4 @@
-# Veterinary-application
+# Veterinary-database
 Veterinary clinic support
 
 Project data origin from [website](https://www.superdatascience.com/pages/sql) and was extended and improved. Database consist of four tables (8MB). 
